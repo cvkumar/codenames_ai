@@ -1,3 +1,4 @@
 jupyterlab
 word2vec
 gensim==4.1.2
+inflect==0.2.3
